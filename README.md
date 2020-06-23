@@ -32,6 +32,6 @@ Used Selenium Python module to access server hosted by smart phone and constantl
 Used Selenium Python module to access server hosted by smart phone and delete all pictures in order to save internal space on phone's memory. Deletion is fully automated and can also be controlled by the user.
 
 
-### ***** "Hangouts_Bot.py" and "Server_file_downloader.py" are intended to be run together to increase automation *****
+### *"Hangouts_Bot.py" and "Server_file_downloader.py" are intended to be run together to increase automation*
  
 
