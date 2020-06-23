@@ -230,8 +230,8 @@ def getNames():
   return array
 
 
-google_username = '13765.lambertina'
-google_password = 'Delta@13765'
+google_username = 'ENTER YOUR GOOGLE USERNAME HERE @GMAIL.COM IS NOT NEEEDED'
+google_password = 'ENTER YOUR PASSWORD FOR GOOGLE ACCOUNT'
 
 start(google_username,google_password)
 print('[lAUNCHED] Starting Hangouts BOT photo upload program')
